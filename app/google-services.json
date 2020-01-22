@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "314021999551",
-    "firebase_url": "https://leesinautenticacion-d5f75.firebaseio.com",
-    "project_id": "leesinautenticacion-d5f75",
-    "storage_bucket": "leesinautenticacion-d5f75.appspot.com"
+    "project_number": "913263513000",
+    "firebase_url": "https://leerconautenticacion.firebaseio.com",
+    "project_id": "leerconautenticacion",
+    "storage_bucket": "leerconautenticacion.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:314021999551:android:ac87065983495fa05e270a",
+        "mobilesdk_app_id": "1:913263513000:android:93daf5e55d88090259219d",
         "android_client_info": {
-          "package_name": "com.example.leesinautenticacion"
+          "package_name": "com.example.leeconautenticacion"
         }
       },
       "oauth_client": [
         {
-          "client_id": "314021999551-q27gkpdevqa92155v95g50kvft7t6cbm.apps.googleusercontent.com",
+          "client_id": "913263513000-al3u8hsb78c37817cp1kgsj65o3g280r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA_lsQH3eBvg_dnoAJRPv3FM5Uzidh2dG8"
+          "current_key": "AIzaSyC52bJmyaZWmyIwGWnhdMIqFAjLhwFOmE8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "314021999551-q27gkpdevqa92155v95g50kvft7t6cbm.apps.googleusercontent.com",
+              "client_id": "913263513000-al3u8hsb78c37817cp1kgsj65o3g280r.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
